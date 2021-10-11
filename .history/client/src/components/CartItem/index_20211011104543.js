@@ -5,10 +5,7 @@ import { useDispatch, useSelector } from 'react-redux';
 
 const CartItem = ({ item }) => {
 
-  const state = useSelector((state) => {
-    return state
-  });
-  
+  const state = useSelector((state => state);
   const dispatch = useDispatch();
 
   const removeFromCart = item => {
