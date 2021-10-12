@@ -31,8 +31,10 @@ Then,
 `npm start`
 
 ## GIF  
-![ReduxStoreGif]()
-![ReduxStoreGif2]()
+![ReduxStoreGif](https://user-images.githubusercontent.com/82620500/136963020-84d74104-4766-4282-9f70-51766a5facb5.gif
+)
+![ReduxStoreGif2](https://user-images.githubusercontent.com/82620500/136963035-1688a6a3-4eff-4a09-9847-7c2ef2728aad.gif
+)
 
 ## Shareable link to this repo:  
 
